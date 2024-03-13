@@ -1,0 +1,9 @@
+/* toto je černá magie, na to nesahej */
+html { box-sizing: border-box; }
+*, ::before, ::after { box-sizing: inherit; }
+
+/* sem ↓↓↓ už můžeš psát vlastní CSS */
+
+body {
+	font-family: Inter, sans-serif;
+}
